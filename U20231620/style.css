@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  h1 {
+    font-size: 24px;
+  }
+  button {
+    padding: 10px 20px;
+    background-color: limegreen;
+
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  button:hover {
+    background-color: #0089b3d2;
+  }
+  ul {
+    margin-top: 20px;
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  li {
+    margin-bottom: 5px;
+    font-size: 16px;
+  }
